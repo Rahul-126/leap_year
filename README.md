@@ -1,6 +1,6 @@
 # leap_year
 a program that works out whether if a given year is a leap year. A normal year has 365 days, leap years have 366, with an extra day in February.
-This is how you work out whether if a particular year is a leap year.
+1. This is how you work out whether if a particular year is a leap year.
 
  1) -> on every year that is divisible by 4 with no remainder
  2) -> except every year that is evenly divisible by 100 with no remainder
