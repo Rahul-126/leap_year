@@ -22,11 +22,11 @@ But the year 2100 is not a leap year because:
 
 Warning your output should match the Example Output format exactly, including spelling an punctuation.
 
-1. Example Input 1
+1. Example Input 1 :
    2400
-2. Example Output 1
+2. Example Output 1 :
    Leap year
-3. Example Input 2
+3. Example Input 2 :
    1989
-4. Example Output 2
+4. Example Output 2 :
    Not leap year
